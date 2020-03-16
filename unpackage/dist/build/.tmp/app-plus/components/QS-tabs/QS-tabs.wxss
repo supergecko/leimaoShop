@@ -1,0 +1,71 @@
+
+view.data-v-c4aa0da8,scroll-view.data-v-c4aa0da8{
+	box-sizing: border-box;
+}
+.QS-segmented-control.data-v-c4aa0da8{
+	width: 100%;
+	-webkit-transition-property: background-color,color;
+	transition-property: background-color,color;
+}
+.QS-segmented-control-scroll.data-v-c4aa0da8 {
+	width: 100%;
+	white-space: nowrap;
+	position: relative;
+}
+.QS-segmented-control-scroll-item.data-v-c4aa0da8{
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	-webkit-transition-property: background-color,color;
+	transition-property: background-color,color;
+	padding: 0 20rpx;
+}
+.content.data-v-c4aa0da8{
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.boxStyle.data-v-c4aa0da8{
+	pointer-events: none;
+	position: absolute;
+	-webkit-transition-property: all;
+	transition-property: all;
+}
+.boxStyle2.data-v-c4aa0da8{
+	pointer-events: none;
+	position: absolute;
+	bottom:0;
+	left: 0;
+	-webkit-transition-property: all;
+	transition-property: all;
+}
+.itemBackgroundBox.data-v-c4aa0da8{
+	pointer-events: none;
+	position: absolute;
+	top:0;
+	left: 0;
+	-webkit-transition-property: background-color,-webkit-transform;
+	transition-property: background-color,-webkit-transform;
+	transition-property: transform,background-color;
+	transition-property: transform,background-color,-webkit-transform;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.itemBackground.data-v-c4aa0da8{
+	height: 100%;
+	width: 100%;
+	-webkit-transition-property: all;
+	transition-property: all;
+}
+
